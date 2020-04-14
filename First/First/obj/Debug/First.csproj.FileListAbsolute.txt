@@ -1,0 +1,6 @@
+C:\Users\Vendip\Desktop\First\First\bin\Debug\First.exe.config
+C:\Users\Vendip\Desktop\First\First\bin\Debug\First.exe
+C:\Users\Vendip\Desktop\First\First\bin\Debug\First.pdb
+C:\Users\Vendip\Desktop\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Desktop\First\First\obj\Debug\First.exe
+C:\Users\Vendip\Desktop\First\First\obj\Debug\First.pdb

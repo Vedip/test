@@ -1,0 +1,6 @@
+C:\Users\Vendip\Desktop\Second\Second\bin\Debug\Second.exe.config
+C:\Users\Vendip\Desktop\Second\Second\bin\Debug\Second.exe
+C:\Users\Vendip\Desktop\Second\Second\bin\Debug\Second.pdb
+C:\Users\Vendip\Desktop\Second\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Desktop\Second\Second\obj\Debug\Second.exe
+C:\Users\Vendip\Desktop\Second\Second\obj\Debug\Second.pdb

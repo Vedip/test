@@ -1,0 +1,6 @@
+C:\Users\Vendip\Documents\SharpDevelop Projects\Third\Third\bin\Debug\Third.exe.config
+C:\Users\Vendip\Documents\SharpDevelop Projects\Third\Third\bin\Debug\Third.exe
+C:\Users\Vendip\Documents\SharpDevelop Projects\Third\Third\bin\Debug\Third.pdb
+C:\Users\Vendip\Documents\SharpDevelop Projects\Third\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Documents\SharpDevelop Projects\Third\Third\obj\Debug\Third.exe
+C:\Users\Vendip\Documents\SharpDevelop Projects\Third\Third\obj\Debug\Third.pdb
